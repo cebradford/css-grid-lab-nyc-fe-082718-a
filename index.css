@@ -21,5 +21,5 @@ body {
 /* add the .bigItem class */
 .bigItem{
   width: 50%;
-  align-self: right;
+  justify-self: right;
 }
